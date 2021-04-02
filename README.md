@@ -27,7 +27,7 @@ NumberSlider(
 )
 ```
 
-When you want to change the number, and pass the required params:
+When you want to change the number:
 ```dart
 controller.number = '88,888.88';
 ```
