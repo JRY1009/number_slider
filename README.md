@@ -4,7 +4,7 @@ number_slider provides a digital slide display
 
 ## Installation
 
-Add `number_slider: ^0.0.1` to `pubspec.yaml` dependencies. And import it:
+Add `number_slider: ^0.0.2` to `pubspec.yaml` dependencies. And import it:
 
 ```dart
 import 'package:number_slider/number_slider.dart';
